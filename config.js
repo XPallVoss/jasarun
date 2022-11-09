@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6289630579234', 'Nopal', true],
-['15312365631', 'Riss', true]
+['6289630579234', '𝚇𝚙𝚊𝚕𝚕 𝙳𝚎𝚟𝚘𝚜𝚜', true],
+['15312365631', '𝚁𝚒𝚜𝚜', true]
 ]
 global.mods = []
 global.prems = []
@@ -54,24 +54,24 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜'
-global.namebot = '𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
-global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜'
+global.author = '𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚇𝚙𝚊𝚕𝚕 𝙳𝚎𝚟𝚘𝚜 𝚇 𝚁𝚒𝚜𝚜'
+global.namebot = '𝚁𝚒𝚜𝚜-𝙼𝚞𝚕𝚝𝚒𝚍𝚎𝚟𝚒𝚌𝚎'
+global.wm = '© 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚇𝚙𝚊𝚕𝚕 𝚇 𝚁𝚒𝚜𝚜'
 global.media = 'https://telegra.ph/file/ef9aac586978813a70b31.jpg'
 global.watermark = wm
-global.wm2 = '𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜'
+global.wm2 = '𝚇𝚙𝚊𝚕𝚕 𝚇 𝚁𝚒𝚜𝚜'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
-global.packname2 = '𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜'
+global.packname2 = '𝚇𝚙𝚊𝚕𝚕 𝚇 𝚁𝚒𝚜𝚜'
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜`
-global.stickpack = '𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜'
-global.stickauth = `𝙽𝚘𝚙𝚊𝚕 𝚇 𝚁𝚒𝚜𝚜`
+global.titlebot = `𝚇𝚙𝚊𝚕𝚕 𝚇 𝚁𝚒𝚜𝚜`
+global.stickpack = '𝚇𝚙𝚊𝚕𝚕 𝚇 𝚁𝚒𝚜𝚜'
+global.stickauth = `𝚇𝚙𝚊𝚕𝚕 𝚇 𝚁𝚒𝚜𝚜`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙽𝚘𝚙𝚊𝚕 𝚘𝚏𝚏𝚌'
-global.nameown2 = '𝙾𝚜𝚌𝚊𝚛'
+global.nameown1= '𝚇𝚙𝚊𝚕𝚕 𝚘𝚏𝚏𝚌'
+global.nameown2 = '𝚁𝚒𝚜𝚜'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = '𝚆𝚊𝚒𝚝'
 global.lynk = ''
