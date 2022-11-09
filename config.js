@@ -78,7 +78,7 @@ global.lynk = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/jarotr_'
+global.sig = 'https://www.instagram.com/nopall_doang'
 global.sgh = 'https://github.com/Alpiii22' //github
 global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL' //group whatsapp
 global.sdc = '-' //discord
